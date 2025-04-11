@@ -1,15 +1,105 @@
 # HPPrimeEdit
 ---
 
-[![Nuget](https://img.shields.io/nuget/v/Velopack?style=flat-square&logo=nuget&logoColor=white)](https://www.nuget.org/packages/Velopack/)
-[![Discord](https://img.shields.io/badge/chat-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/CjrCrNzd3F)
-[![Build](https://img.shields.io/github/actions/workflow/status/velopack/velopack/build.yml?branch=develop&style=flat-square&logo=github&logoColor=white)](https://github.com/velopack/velopack/actions)
-[![Codecov](https://img.shields.io/codecov/c/github/velopack/velopack?style=flat-square&logo=codecov&logoColor=white)](https://app.codecov.io/gh/velopack/velopack)
-[![License](https://img.shields.io/github/license/velopack/velopack?style=flat-square)](https://github.com/velopack/velopack/blob/develop/LICENSE)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvelopack%2Fvelopack&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+🚀 HP Code Editor - First Release
+A modern, feature-rich code editor tailored for the PPL programming language, designed with productivity and developer experience in mind. This first stable version lays the groundwork for a robust and extensible platform.
 
+✨ Key Features
+🗂️ Multi-Tab Editing
+Seamless multi-tab support
 
-HPPrimeEdit es un editor de código intuitivo y potente diseñado para la calculadora HP Prime. Simplifica la creación y edición de programas para tu HP Prime, ofreciendo una experiencia de programación más eficiente y agradable.
+Drag & drop tabs to reorder
 
-HPPrimeEdit revoluciona la forma en que programas tu calculadora HP Prime. Este editor de código, fácil de usar incluso para principiantes, ofrece funciones avanzadas como resaltado de sintaxis, autocompletado de código y depuración integrada. Aumenta tu productividad y reduce los errores al escribir programas para tu HP Prime con HPPrimeEdit.
+Unsaved change indicators
 
+Fast navigation between open files
+
+🧠 Smart PPL Language Support
+Full syntax highlighting
+
+Intelligent code autocompletion
+
+Context-aware suggestions (IF, FOR, WHILE...)
+
+Automatic syntax error detection
+
+Auto-formatting for clean, readable code
+
+🔍 Advanced Semantic Analysis
+Real-time error detection
+
+Variable and function validation
+
+Scope (lexical) analysis
+
+Duplicate declaration checking
+
+Parameter validation in functions
+
+🎨 Customization
+Multiple visual themes (Light, Dark, Multicolor, Rose Garden)
+
+Font size configuration
+
+Minimap toggle
+
+Customizable color decorators
+
+Line numbering options
+
+⚙️ Productivity Boosters
+Find and replace
+
+Auto-commenting lines or blocks
+
+Editor zoom in/out
+
+Notification panel
+
+Keyboard shortcut support
+
+📁 File Management
+Open & save files easily
+
+Support for .hpprgm and .txt extensions
+
+Unsaved changes tracking
+
+Auto-save editor state on close
+
+🖥️ Modern Interface
+Clean, professional UI
+
+Intuitive toolbar
+
+Easy-access settings panel
+
+Visual status indicators
+
+Support for custom themes
+
+🛠️ Under the Hood
+✅ Tree-sitter integration for code parsing
+
+✅ Custom semantic analysis engine
+
+✅ WebAssembly support
+
+✅ Efficient memory usage
+
+✅ Plugin-ready architecture
+
+🐞 Debugging Tools
+Real-time error highlighting
+
+Detailed, localized error messages
+
+Advanced syntax validation
+
+Scope and dependency analysis
+
+📦 What's Next?
+This is just the beginning! Expect continuous updates with new language features, plugin support, and enhanced debugging tools. We’re building a developer-first PPL IDE from the ground up 🚧
+
+🎯 Try it now and help shape the future of PPL development!
+📎 You can also check out a sample configuration here to get started quickly: [link]
