@@ -72,6 +72,7 @@ This first stable version lays the groundwork for a robust and extensible platfo
 - Scope and dependency analysis  
 
 ---
+![image](https://github.com/user-attachments/assets/3127d884-560f-4898-9eae-bb4fe666aa56)
 
 ## 📦 What's Next?
 This is just the beginning! Expect continuous updates with new language features, plugin support, and enhanced debugging tools.  
