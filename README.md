@@ -1,4 +1,4 @@
-# 🚀 HP Code Editor - First Release
+# 🚀 HP Code Editor - First Release v1.0.0
 
 A modern, feature-rich code editor tailored for the **PPL programming language**, designed with productivity and developer experience in mind.  
 This first stable version lays the groundwork for a robust and extensible platform.
