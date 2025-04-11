@@ -1,7 +1,9 @@
 # 🚀 HP Code Editor - First Release v1.0.0
 
 A modern, feature-rich code editor tailored for the **PPL programming language**, designed with productivity and developer experience in mind.  
-This first stable version lays the groundwork for a robust and extensible platform.
+This first stable version lays the groundwork for a robust and extensible platform. 
+
+[Descargar HP Code Editor](https://github.com/hpvcodeDev/HPPrimeEdit/releases/download/v1.0.0/HPPrimeEdit-Setup-1.0.0.exe)
 
 ---
 
