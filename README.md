@@ -3,7 +3,7 @@
 A modern, feature-rich code editor tailored for the **PPL programming language**, designed with productivity and developer experience in mind.  
 This first stable version lays the groundwork for a robust and extensible platform. 
 
-[Descargar HP Code Editor](https://github.com/hpvcodeDev/HPPrimeEdit/releases/download/v1.0.5/HPPrimeEdit-Setup-1.0.5.exe)
+[Download HP Code Editor](https://github.com/hpvcodeDev/HPPrimeEdit/releases/download/v1.0.5/HPPrimeEdit-Setup-1.0.5.exe)
 
 ---
 
